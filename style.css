@@ -1,0 +1,27 @@
+div img
+{
+	max-width: 100%;
+}
+
+#first
+{
+	width: 20%;
+	float: left; 
+}
+
+#second
+{
+	width: 80%;
+	float: right;
+}
+
+.header
+{
+	text-align: center;
+}
+
+.content
+{
+	font-size: 18px;
+	line-height: 22px;
+}
